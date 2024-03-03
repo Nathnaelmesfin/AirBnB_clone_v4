@@ -160,8 +160,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Juan Camilo Esquivel - [Github](https://github.com/cmlesquivel) / [Twitter](https://twitter.com/cmlesquivel)
-Juan Carlos Lopez - [Github](https://github.com/Juan-Bogota/) / [Twitter](https://twitter.com/jclopez100)
+Nathnael Mesfin - [Github](https://github.com/Nathnaelmesfin) / [Twitter]([https://twitter.com/nathnael_mesfin)
+
 
 Second part of Airbnb: Joann Vuong
 ## License
