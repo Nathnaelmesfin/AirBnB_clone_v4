@@ -162,7 +162,5 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Nathnael Mesfin - [Github](https://github.com/Nathnaelmesfin) / [Twitter]([https://twitter.com/nathnael_mesfin)
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
